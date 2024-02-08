@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+<!--
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Sdk" Version="3.1.414" />
+  </ItemGroup>
+-->
+
+  <ItemGroup>
+    <Compile Include="String\StringExtensions.cs" />
+    <!-- Füge hier die Pfade zu den anderen Dateien hinzu -->
+  </ItemGroup>
+
+</Project>
